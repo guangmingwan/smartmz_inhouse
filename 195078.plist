@@ -33,15 +33,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.fs1114.tencent.xin.pp.Z01</string>
+          <string>com.playcrab.ares.ios91</string>
           <key>bundle-version</key>
-          <string>6.3.5</string>
+          <string>2.0.5</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>微信01</string>
+          <string>大掌门</string>
           <key>title</key>
-          <string>微信01</string>
+          <string>大掌门</string>
         </dict>
       </dict>
     </array>
