@@ -33,9 +33,9 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.playcrab.ares</string>
+          <string>com.playcrab.ares.ios91</string>
           <key>bundle-version</key>
-          <string>19.1.7</string>
+          <string>4.0.0</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
