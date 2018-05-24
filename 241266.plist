@@ -33,7 +33,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>org.xbmc.kodi-ios</string>
+          <string>com.adouming.org.xbmc.kodi-ios</string>
           <key>bundle-version</key>
           <string></string>
           <key>kind</key>
